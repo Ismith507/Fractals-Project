@@ -4,7 +4,8 @@ Simple program that allows users to generate different types of fractals and exp
 
 Doesnt do much, but hey it works.
 
-Future PLans:
+Future Plans:
+
   Implement different fractals and strange attractors.
   Implement "navigation" fuctionality that lets you zoom in/out and pan across the fractal.
   Add an educational component that explains to the user how each fractal is generated and what fractals and strange attractors are.
